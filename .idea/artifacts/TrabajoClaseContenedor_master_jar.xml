@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrabajoClaseContenedor-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrabajoClaseContenedor_master_jar</output-path>
+    <root id="archive" name="TrabajoClaseContenedor-master.jar">
+      <element id="module-output" name="TrabajoClaseContenedor-master" />
+    </root>
+  </artifact>
+</component>
