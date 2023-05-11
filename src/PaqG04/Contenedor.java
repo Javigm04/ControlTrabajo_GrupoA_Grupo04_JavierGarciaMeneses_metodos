@@ -1,3 +1,5 @@
+//Javier García Meneses
+//Grupo: A, G04
 package PaqG04;
 
 import java.io.Serializable;
