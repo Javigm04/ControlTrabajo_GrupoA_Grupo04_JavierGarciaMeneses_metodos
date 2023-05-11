@@ -3,14 +3,14 @@ package PaqG04;
 import java.io.Serializable;
 
 public class Contenedor implements Serializable {
-    int id;
-    double peso;
-    String pais;
-    boolean aduanas;
-    int prioridad;
-    String descripcion;
-    String empresaEnvia;
-    String empresaRecibe;
+    private int id;
+    private double peso;
+    private String pais;
+    private boolean aduanas;
+    private int prioridad;
+    private String descripcion;
+    private String empresaEnvia;
+    private String empresaRecibe;
     public Contenedor(int id,double peso,String pais,boolean aduanas,int prioridad,String descripcion,String empresaEnvia,String empresaRecibe){
         this.id=id;
         if(peso>0)this.peso=peso;
